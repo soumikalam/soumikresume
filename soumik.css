@@ -1,0 +1,173 @@
+h1
+{
+    text-align: left;
+    color: rgb(31, 31, 107);
+    font-size: 60px;
+    margin-top: 10px;
+}
+.image img
+{
+   width: 200px;
+   height: 200px;
+   margin-left: 1100px;
+   margin-top: -120px;
+}
+
+.address
+{
+    margin-left: 20px; 
+}
+.contact 
+{
+    margin-left: 1100px;
+    margin-top: -90px;   
+}
+.KEYPROFICIENCIES
+{
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.KEYPROFICIENCIES h2
+{
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.KEYPROFICIENCIES ul
+{
+    margin-left: 200px;
+}
+.EDUCATION
+{   margin-top: 220px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.EDUCATION h2
+{
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.EDUCATION pre
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 150px; 
+}
+.Volunteer_Working_Experience
+{   margin-top: 280px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.Volunteer_Working_Experience h2
+{
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.Volunteer_Working_Experience ul
+{
+    margin-left: 200px;
+}
+.TECHNICAL_SKILLS
+{
+    margin-top: 250px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+
+}
+.TECHNICAL_SKILLS h2
+{ 
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.TECHNICAL_SKILLS ul
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 200px; 
+}
+.PUBLICATIONS
+{
+    margin-top: 210px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.PUBLICATIONS h2
+{ 
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.PUBLICATIONS p
+{
+    margin-left: 220px; 
+}
+.WorkshopandConference 
+{
+    margin-top: 210px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.WorkshopandConference h2
+{ 
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.WorkshopandConference ol
+{
+    margin-left: 200px;
+}
+.ORGANIZING_AND_LEADERSHIP_ACTIVITIES
+{
+    margin-top: 170px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.ORGANIZING_AND_LEADERSHIP_ACTIVITIES h2
+
+{ 
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.ORGANIZING_AND_LEADERSHIP_ACTIVITIES p
+{
+    margin-left: 220px; 
+}
+.REFERENCE
+{
+    margin-top: 130px;
+    width: auto;
+    height: 40px;
+    background-color: darkslateblue;
+}
+.REFERENCE h2
+{
+    color: floralwhite;
+    margin-left: 20px; 
+    line-height: 40px;
+}
+.REFERENCE p
+{
+    margin-left: 220px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
